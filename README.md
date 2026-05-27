@@ -69,7 +69,7 @@ https://github.com/SerTidus/Cat-Carried-Butterfly-RUS/releases/tag/v1.0.0
 Вы можете самостоятельно проверить скачанный файл и убедиться, что он не был изменён.
 
 Также при необходимости можно проверить установщик через **VirusTotal**.
-можете проверить файл через: 👉 https://www.virustotal.com/
+👉 https://www.virustotal.com/
 
 ---
 
