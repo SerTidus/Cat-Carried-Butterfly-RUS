@@ -75,7 +75,19 @@ https://github.com/SerTidus/Cat-Carried-Butterfly-RUS/releases/tag/v1.0.0
 
 ## Скриншоты
 
-Скриншоты русской версии будут добавлены отдельно.
+![Перевод меню](screenshots/Пример9.png)
+
+![Настройки](screenshots/Пример.png)
+
+![Пример перевода в игре](screenshots/Пример3.png)
+
+![Пример перевода в игре](screenshots/Пример4.png)
+
+![Пример перевода в игре](screenshots/Пример5.png)
+
+![Пример перевода в игре](screenshots/Пример6.png)
+
+![Пример перевода в игре](screenshots/Пример7.png)
 
 ---
 
