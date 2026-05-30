@@ -106,7 +106,7 @@ https://github.com/SerTidus/Cat-Carried-Butterfly-RUS/releases/tag/v1.0.0
 По возможности приложите скриншот и описание места, где возникла ошибка.
 
 ## Можете ознакомиться с материалом по переводу тут
-Ссылка на материал будет приложена попозже
+https://dtf.ru/games/5086326-rusifikator-dlya-cat-carried-butterfly
 
 ---
 
